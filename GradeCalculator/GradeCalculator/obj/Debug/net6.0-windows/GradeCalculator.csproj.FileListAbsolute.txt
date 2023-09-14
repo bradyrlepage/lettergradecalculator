@@ -1,0 +1,16 @@
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\bin\Debug\net6.0-windows\GradeCalculator.exe
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\bin\Debug\net6.0-windows\GradeCalculator.deps.json
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\bin\Debug\net6.0-windows\GradeCalculator.runtimeconfig.json
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\bin\Debug\net6.0-windows\GradeCalculator.dll
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\bin\Debug\net6.0-windows\GradeCalculator.pdb
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\obj\Debug\net6.0-windows\GradeCalculator.Form1.resources
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\obj\Debug\net6.0-windows\GradeCalculator.csproj.GenerateResource.cache
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\obj\Debug\net6.0-windows\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\obj\Debug\net6.0-windows\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\obj\Debug\net6.0-windows\GradeCalculator.AssemblyInfo.cs
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\obj\Debug\net6.0-windows\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\obj\Debug\net6.0-windows\GradeCalculator.dll
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\obj\Debug\net6.0-windows\refint\GradeCalculator.dll
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\obj\Debug\net6.0-windows\GradeCalculator.pdb
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\obj\Debug\net6.0-windows\GradeCalculator.genruntimeconfig.cache
+C:\Users\Brady LePage\source\repos\GradeCalculator\GradeCalculator\obj\Debug\net6.0-windows\ref\GradeCalculator.dll
